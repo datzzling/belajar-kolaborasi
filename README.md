@@ -1,3 +1,4 @@
 # Belajar Kolaborasi
-Sekarang udah jam 2 dini hari gais<br>
-Dan yap gua masih belajar terkait git ini *(squash changes)* :]
+
+Belajar GitHub di Dicoding seru cuy!<br>
+Ga seru tapi kalo udah letih lelah lemah lemes lesu letoy loyo lunglai :)
